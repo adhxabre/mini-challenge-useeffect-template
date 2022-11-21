@@ -1,0 +1,26 @@
+[
+    {
+        "username": "maniak_koding",
+        "description": "Kamu agak lmao banh...",
+        "user_image": "https://i.redd.it/avchib6zwe071.jpg",
+        "post_image": "https://i.pinimg.com/originals/94/68/8d/94688d98c0d5f0f129889bd657d2c1dc.jpg",
+        "likes": 204,
+        "comment": 1
+    },
+    {
+        "username": "walter_white",
+        "description": "My new profile pict, looks dope...!",
+        "user_image": "https://scontent.fcgk6-2.fna.fbcdn.net/v/t1.6435-9/66518880_675962876203564_7839714559710461952_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=UvnOBlqfc6MAX95MAWS&_nc_ht=scontent.fcgk6-2.fna&oh=00_AfCI8EdLOmLAAQsLKpuwBbuohRL3sSfpgFTZX9NUxWslOA&oe=63A34626",
+        "post_image": "https://scontent.fcgk6-2.fna.fbcdn.net/v/t1.6435-9/66518880_675962876203564_7839714559710461952_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=UvnOBlqfc6MAX95MAWS&_nc_ht=scontent.fcgk6-2.fna&oh=00_AfCI8EdLOmLAAQsLKpuwBbuohRL3sSfpgFTZX9NUxWslOA&oe=63A34626",
+        "likes": "1K",
+        "comment": 304
+    },
+    {
+        "username": "animallover",
+        "description": "This cute lambs 😍",
+        "user_image": "https://i.natgeofe.com/k/63b1a8a7-0081-493e-8b53-81d01261ab5d/red-panda-full-body_4x3.jpg",
+        "post_image": "https://aldf.org/wp-content/uploads/2018/05/lamb-iStock-665494268-16x9-e1559777676675.jpg",
+        "likes": "304K",
+        "comment": 2048
+    }
+]
